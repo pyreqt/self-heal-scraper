@@ -4,13 +4,13 @@ The tasks are ordered by dependency. Each task should produce a small, testable 
 
 ## Phase 1 — Foundation
 
-- [ ] **T1: Project setup**
+- [x] **T1: Project setup**
   - Create the Python package structure.
   - Add dependency and test configuration.
   - Add a minimal executable entry point.
   - Verify the project can run and tests can execute.
 
-- [ ] **T2: Scraper configuration model**
+- [x] **T2: Scraper configuration model**
   - Define the URL, expected fields, extraction rules, and validation rules.
   - Keep configuration separate from application logic.
   - Add configuration validation tests.
